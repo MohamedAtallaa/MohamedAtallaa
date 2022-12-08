@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/mi_atallah)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Twitter)](https://twitter.com/mi_atallah)
-[![Linkedin: mohamdatallaa](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamdatallaa-p-singh/)](https://www.linkedin.com/in/mohamdatallaa/)
+[![Linkedin: mohamdatallaa](https://img.shields.io/badge/-mohamdatallaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamdatallaa-p-singh/)](https://www.linkedin.com/in/mohamdatallaa/)
 
 <!-- Profile Views -->
 
