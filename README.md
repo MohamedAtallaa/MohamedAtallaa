@@ -11,7 +11,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Twitter%20&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Twitter%20&color=0e75b6&style=flat" alt="ee" />
 </p>
 
 <!-- THE END -->
