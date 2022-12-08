@@ -1,6 +1,5 @@
 
 <h2>Hi there 👋, I am Mohamed an ios developer</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 <h3 align="left">Connect with me:</h3>
