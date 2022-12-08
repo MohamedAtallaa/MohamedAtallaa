@@ -16,12 +16,6 @@
 
 
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Twitter%20&color=0e75b6&style=flat" alt="" />
-</p>
-
-<!-- THE END -->
 
 <!--
 **MohamedAtallaa/MohamedAtallaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
