@@ -1,7 +1,7 @@
 
 <h2>Hello👋, I'm Mohamed Atallah new commer to iOS world.</h2>
 
-**🌱 I’m currently learning iOS stuff**
+**🌱 I’m currently learning iOS stuff.**
 
 <p align="left">
 <a href="https://twitter.com/mi_atallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkkkkkk" height="30" width="40" /></a>
