@@ -1,5 +1,5 @@
 
-<h2>Hello👋, I'm Mohamed Atallah, a new commer to iOS world.</h2>
+<h2>Hello👋, I'm Mohamed Atallah. A new commer to iOS world.</h2>
 
 
 **🌱 I’m currently learning iOS stuff.**
