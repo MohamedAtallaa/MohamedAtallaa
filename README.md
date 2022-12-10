@@ -1,6 +1,6 @@
 
 <h2>Hi there 👋, I am Mohamed an ios developer</h2>
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning iOS stuff
 
 
 <h3 align="left">Connect with me:</h3>
