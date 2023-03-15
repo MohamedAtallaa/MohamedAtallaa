@@ -2,7 +2,7 @@
 <img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="300">
 
 ### What am I currently doing? 👀
-- Improving my iOS development skills 
+- Leveling up my iOS development skills 
 - Looking for an opportunity
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohamdatallaa/)
