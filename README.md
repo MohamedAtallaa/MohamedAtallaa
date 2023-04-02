@@ -1,4 +1,5 @@
-## Hello 👋, I'm Mohamed an iOS developer.  ![picmix com_826390](https://user-images.githubusercontent.com/100219531/229351104-6d970a46-9782-4ff1-a1dd-0e5aee414835.gif)
+## Hello 👋, I'm Mohamed an iOS developer.  
+![picmix com_826390](https://user-images.githubusercontent.com/100219531/229351104-6d970a46-9782-4ff1-a1dd-0e5aee414835.gif)
 
 ### What am I currently doing? 👀                 
 - Leveling up my iOS development skills 
