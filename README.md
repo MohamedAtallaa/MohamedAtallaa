@@ -1,5 +1,5 @@
 ## Hello 👋, I'm Mohamed an iOS developer . 
-<img align='right' src="https://user-images.githubusercontent.com/100219531/230874615-a116c5b9-4c33-46f4-9203-2bca3d24e9f4.gif" width="300">
+<img align='right' src="https://user-images.githubusercontent.com/100219531/230874615-a116c5b9-4c33-46f4-9203-2bca3d24e9f4.gif" width="200">
 
 
 ### What am I currently doing? 👀                
