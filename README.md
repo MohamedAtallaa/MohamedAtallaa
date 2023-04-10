@@ -1,6 +1,8 @@
-## Hello 👋, I'm Mohamed an iOS developer.  
+## Hello 👋, I'm Mohamed an iOS developer . 
+<img align='right' src="https://user-images.githubusercontent.com/100219531/230872814-535b5d2b-8d07-49b4-ac47-239cc2ead762.gif" width="300">
 
-### What am I currently doing? 👀                 
+### What am I currently doing? 👀                
+
 - Leveling up my iOS development skills 
 - Looking for an opportunity
 
